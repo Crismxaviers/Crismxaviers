@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I currently work as a Data Analyst<br>🤝 Degree in Computer Science<br> 🌱 I’m currently learning Phyton and Business Inteligence<br>💬 Ask me about SQL and PowerBi<br><br>I love Friends, Harry Potter, Wednesday  
 
+E-mail: contato.dadoscris@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dados.cris) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristina-silva-78a99197/) 
