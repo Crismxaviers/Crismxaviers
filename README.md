@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bacharel em Ciência da Computação.<br>Cursando pós em BIG Data.<br>Atuando como analista de BI<br><br>Criadora de conteúdo no instagram @tech.crissilva sobre tecnologia e  análise de dados
+Bacharel em Ciência da Computação.<br>Atuando como analista de BI<br><br>Criadora de conteúdo no instagram @tech.crissilva sobre tecnologia e  análise de dados
 
 
 ## 🌐 Socials:
